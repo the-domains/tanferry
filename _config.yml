@@ -1,0 +1,28 @@
+name: tanferry
+favicon: null
+layout_spectrum: 0.2585446236189455
+typography_spectrum: 0.26580281113274395
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9047765161376446
+  lightness: 0.9344345221761614
+  saturation: 0.14616998215205967
+  rhythmicContrast: 0.11424170178361237
+purpose: []
