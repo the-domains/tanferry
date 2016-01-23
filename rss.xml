@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[tanferry]]></title>
+        <description><![CDATA[tanferry]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Jan 2016 09:28:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Finally on the Grid]]></title>
+            <description><![CDATA[<article><h1>Finally on the Grid</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b911698fa500763fe30f6284d018e58912e6ae9d.jpg"></article>]]></description>
+            <link>undefinedfinally-on-the-grid/index.html</link>
+            <guid isPermaLink="false">81eaa276-900a-42c4-b751-119df4f30519</guid>
+            <pubDate>Sat, 23 Jan 2016 09:28:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
