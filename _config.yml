@@ -1,4 +1,4 @@
-name: tanferry
+name: Xcitepictures
 favicon: null
 layout_spectrum: 0.2585446236189455
 typography_spectrum: 0.26580281113274395
@@ -22,7 +22,7 @@ color:
     - '#555034'
     - '#b02838'
   brandStrength: 0.5
-  lightness: 1
+  lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0
+  rhythmicContrast: 0.5
 purpose: []
